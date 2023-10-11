@@ -1,0 +1,30 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_128912E3_1EB0_9EF7_41AD_E317F7F94A24.label = Acesso aos quartos
+panorama_14142AC5_1EB0_A930_41B6_7C5D6A82DE81.label = Acesso cozinha
+panorama_1411E2A6_1EB0_B970_419C_FAB9AAFD3E26.label = Acesso sala
+panorama_1413995E_1EB0_EBD0_41B1_C0FA0EC666EB.label = Cozinha
+panorama_1414315F_1EB0_FBCF_4161_41820150C542.label = Depósito
+panorama_14143962_1EB0_EBF0_41B4_C0F754060CB0.label = Entrada
+panorama_0E1FE2AB_1EB1_B97A_41AE_83FA6AA93F23.label = Garagem
+panorama_1413B122_1EB0_9B71_41AF_6577DFF2890A.label = Lavabo 2 andar
+panorama_1413887D_1EB0_A9D0_41A9_32CE93DC1B78.label = Lavanderia
+panorama_1413BFD8_1EB0_A6D0_41B0_487CB7A5834E.label = Quarto 1
+panorama_1413F725_1EB0_A770_41A1_71E70E16FF12.label = Quarto 2
+panorama_14144E7E_1EB0_A9D0_41A2_2C82A31E5712.label = Sala
+panorama_141455C8_1EB0_9B31_41BD_19D39D429542.label = Sala_sacada
+panorama_14141D78_1EB1_6BD0_41B1_FB1FC8106CF7.label = Suíte_
+panorama_14141515_1EB1_7B53_41B8_439364E81E00.label = Suíte__
+panorama_14157D18_1EB1_6B50_41AB_5AFC4EC71DD3.label = Suíte_sacada
+panorama_0A633B1F_1F53_68DD_419F_947EC830BA7C.label = Área de serviço
+panorama_0CC9863C_1EFF_790B_41B8_9929675EC9CA.label = Área de serviço_Banheiro
+
+## Tour
+
+### Description
+
+### Title
+tour.name = CASTRO ALVES
